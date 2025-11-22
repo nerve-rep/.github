@@ -1,5 +1,5 @@
 ## Приветствую в MVP репозитории
-<img align="left" width="180" height="180" src="https://github.com/nerve-rep/.github/icon.jpg">
+<img align="left" width="180" height="180" src="https://github.com/nerve-rep/.github/blob/4e8270da45aa3b3c664681c47f1ff5c992f88c63/icon.jpg">
 Я инженер, использующий ИИ для ускоренного создания реальных работающих продуктов.
 Разрабатываю проекты и прототипы, эффективно сочетая собственную инженерную экспертизу и современные ИИ-инструменты.
 
