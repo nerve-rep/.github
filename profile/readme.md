@@ -1,5 +1,5 @@
 ## Приветствую в MVP репозитории
-<img align="left" width="180" height="180" src="https://raw.githubusercontent.com/docling-project/docling/refs/heads/main/docs/assets/logo.svg">
+<img align="left" width="180" height="180" src="https://github.com/nerve-rep/.github/icon.jpg">
 Я инженер, использующий ИИ для ускоренного создания реальных работающих продуктов.
 Разрабатываю проекты и прототипы, эффективно сочетая собственную инженерную экспертизу и современные ИИ-инструменты.
 
