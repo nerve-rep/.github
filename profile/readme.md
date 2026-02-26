@@ -9,3 +9,4 @@
 
 - [TeleHarvest-Bot](https://github.com/nerve-rep/TeleHarvest-Bot) -  Скрипт и бот для него, выгружающий посты из публичных каналов `Telegram`
 - [QuoteLoom](https://github.com/nerve-rep/QuoteLoom) - Простейшее веб-приложение на Django, выдающее случайную цитату
+- [Wayback Context Menu](https://github.com/nerve-rep/Wayback-Context-Menu) - Расширение для Chrome, позволяющее использовать [Webarchive](https://web.archive.org/) Wayback Machine из контекстного меню.
